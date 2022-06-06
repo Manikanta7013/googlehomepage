@@ -101,3 +101,14 @@ body{
     border-top:1px solid black;
 
 }
+.footeritem,
+.anchor {
+  font-size: 15px;
+  color: #70757a;
+  text-decoration: none;
+  padding: 15px 20px;
+  line-height: 5px;
+}
+.anchor:hover {
+  text-decoration: underline;
+}
